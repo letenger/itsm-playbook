@@ -1,0 +1,9 @@
+﻿incident_number,opened_at,priority,service,category,assignment_group,mtta_minutes,mttr_minutes,sla_target_mttr_minutes,sla_met,breach_reason
+INC004182,2026-08-18T09:04:00+10:00,P1,Network Connectivity,Wireless/Wi-Fi,Network Team,12,74,240,True,
+INC004233,2026-08-19T10:41:00+10:00,P2,Classroom AV and Lecture Theatre Support,Room AV/Projection,AV Team,26,410,480,True,
+INC004301,2026-08-24T14:15:00+10:00,P3,Account and Password Support,MFA/Password Reset,Service Desk,95,150,480,True,
+INC004377,2026-09-01T08:52:00+10:00,P2,Network Connectivity,VPN,Network Team,240,760,480,False,vendor
+INC004402,2026-09-03T11:20:00+10:00,P3,Endpoint Support,Hardware/Laptop Fault,Endpoint Team,110,980,1440,True,
+INC004455,2026-09-08T15:03:00+10:00,P1,Line-of-Business Application Support,Database Connectivity,Application Support,14,175,240,True,
+INC004489,2026-09-10T09:30:00+10:00,P3,Email and Collaboration,Shared Mailbox,Collaboration Team,130,610,480,False,knowledge gap
+INC004512,2026-09-14T13:47:00+10:00,P4,Software Licensing and Installation,Software Request,Software Licensing,55,2880,2400,False,requester delay
